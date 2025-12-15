@@ -6,7 +6,7 @@ Cloning Github page to understand the layout structure and responsiveness using 
 - HTML
 - Tailwindcss
 
-link: https://github-anbuselvan-repo-cloning.netlify.app/
+link: https://anbuselvan-github-repo.netlify.app/
 
 ![alt text](image.png)
 

@@ -1,4 +1,5 @@
 ## 💻Github cloning
+Cloning Github page to understand the layout structure and responsiveness using Tailwindcss classes.
 
 ## 💻 Technologies Used
 
